@@ -1,0 +1,79 @@
+﻿[
+    {
+        "id": 1,
+        "name": "红水晶瓶",
+        "type": "Consumable",
+        "quality": "Common",
+        "description": "这是用来加血的",
+        "capacity": 20,
+        "hp": 10,
+        "mp": 0,
+        "sprite": "Sprites/Items/hp"
+    },
+	{
+        "id": 2,
+        "name": "蓝水晶瓶",
+        "type": "Consumable",
+        "quality": "Common",
+        "description": "这是用来加蓝的",
+        "capacity": 20,
+        "hp": 0,
+        "mp":10,
+        "sprite": "Sprites/Items/mp"
+    },
+	{
+        "id":3,
+        "name": "铁直剑",
+        "type": "Weapon",
+        "quality": "Common",
+        "description": "村子里最好的剑。",
+        "capacity": 1,
+        "sprite": "Sprites/Items/steel_sword",
+		"damage":10.1,
+		"weaponType":"MainHand"
+    },
+	{
+         "id":4,
+        "name": "贵族军刀",
+        "type": "Weapon",
+        "quality": "Common",
+        "description": "锋利而轻便，既能骑马突刺也能挥砍伤人。",
+        "capacity": 1,
+        "sprite": "Sprites/Items/the_great_stick",
+		"damage":11.2,
+		"weaponType":"MainHand"
+    },
+	{   
+	    "id":5,
+        "name": "雨村",
+        "type": "Weapon",
+        "quality": "Rare",
+        "description": "来自东洋的武器。",
+        "capacity": 1,
+        "sprite": "Sprites/Items/sword",
+		"damage":13,
+		"weaponType":"MainHand"
+    },
+	{
+        "id":6,
+        "name": "谜之钥",
+        "type": "Task",
+        "quality": "Legendary",
+        "description": "能打开城墙某处的门",
+        "capacity": 1,
+        "hp": 0,
+        "mp": 0,
+        "sprite": "Sprites/Items/key"
+    },
+	{
+        "id":7,
+        "name": "残破的信纸",
+        "type": "Task",
+        "quality": "Legendary",
+        "description": "“克罗提亚：等我离开这里，不能让你再受王的掌控……”",
+        "capacity": 1,
+        "hp": 0,
+        "mp": 0,
+        "sprite": "Sprites/Items/scroll"
+    }
+]

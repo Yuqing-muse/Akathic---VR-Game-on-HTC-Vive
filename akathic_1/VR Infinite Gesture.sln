@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Infinite Gesture", "Assembly-CSharp.csproj", "{232234A7-A1C6-EE0A-4968-7787A5AC3AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Infinite Gesture", "Assembly-CSharp-Editor.csproj", "{AA12A8E0-7191-6143-51E2-562CF7AEA582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232234A7-A1C6-EE0A-4968-7787A5AC3AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232234A7-A1C6-EE0A-4968-7787A5AC3AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232234A7-A1C6-EE0A-4968-7787A5AC3AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232234A7-A1C6-EE0A-4968-7787A5AC3AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA12A8E0-7191-6143-51E2-562CF7AEA582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA12A8E0-7191-6143-51E2-562CF7AEA582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA12A8E0-7191-6143-51E2-562CF7AEA582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA12A8E0-7191-6143-51E2-562CF7AEA582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
